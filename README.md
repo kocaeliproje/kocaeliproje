@@ -1,5 +1,13 @@
 ### Merhaba 👋
-Merhaba 16 yıllık inşaat yüksek mühendisiyim. YBS mezunuyum ayrıca Yalova üni Bilgi. Müh. Öğrencisiyim. Marmara bölgesinde inşaa edilen bir limanda proje müdürlüğü yapıyorum. İnşaat teknolojiye en uzak mühendislik dallarından biridir. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip sizlerin de desteğiyle katma değer yaratmak.
+Merhaba 16 yıllık inşaat yüksek mühendisiyim. YBS mezunuyum ayrıca Yalova üni Bilgi. Müh. Öğrencisiyim. Marmara bölgesinde inşaa edilen bir limanda proje müdürlüğü yapıyorum. İnşaatın teknolojiye en uzak mühendislik dallarından biri olduğunun farkındayım. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
+
+   GÜNCEL ÇALIŞMALAR
+   - 📫 Yalova üni Bilgisayar Mühendisliğine başladım.✨2022✨
+   - 🔭 patika.dev Bootcamp hızlandırma programına devam ediyorum.
+   - 🌱 Koç holding derin öğrenme bootcam programına devam ediyorum.
+   - 👯 SQL öğreniyorum.
+
+
 
    www.linkedin.com/in/mehmet-aydın-804b653b
 
