@@ -9,7 +9,7 @@ Merhaba 16 yıllık inşaat yüksek mühendisiyim. YBS mezunuyum ayrıca Yalova 
 
 
 
-   www.linkedin.com/in/mehmet-aydın-804b653b
+   📫 LINKEDIN Profilim :  www.linkedin.com/in/mehmet-aydın-804b653b
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kocaeliproje&show_icons=true)            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kocaeliproje&layout=compact)](https://github.com/kocaeliproje/github-readme-stats)
