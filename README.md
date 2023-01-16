@@ -1,5 +1,5 @@
 ### Merhaba 👋
-Merhaba 2006 mezunu inşaat mühendisiyim. Marmara bölgesinde inşaa edilen bir limanda proje müdürlüğü yapıyorum. İnşaat işinin teknolojiye en uzak mühendislik dallarından biri olduğunun farkındayım. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
+Merhaba 2006 Sakarya Ünv. mezunu inşaat mühendisiyim. Marmara bölgesinde inşaa edilen bir limanda proje müdürlüğü yapıyorum. İnşaat işinin teknolojiye en uzak mühendislik dallarından biri olduğunun farkındayım. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
 
    GÜNCEL ÇALIŞMALAR
    - 📫 Yalova üni Bilgisayar Mühendisliğine başladım.✨2022✨
