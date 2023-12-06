@@ -1,5 +1,5 @@
 ### Merhaba 👋
-Merhaba 17 yıl tecrübeli inşaat Y. mühendisi olarak marmara bölgesinde inşaa edilen bir limanda proje müdürlüğü yapıyorum. İnşaat işinin teknolojiye en uzak mühendislik dallarından biri olduğunun farkındayım. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
+Merhaba Bilgisayar Mühendisliği 3 sınıf öğrencisi ve 17 yıl tecrübeli inşaat Y. mühendisi olarak marmara bölgesinde inşaa edilen bir limanda proje müdürlüğü yapıyorum. İnşaat işinin teknolojiye en uzak mühendislik dallarından biri olduğunun farkındayım. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
 
    GÜNCEL ÇALIŞMALAR
    - 📫 Yalova üni Bilgisayar Mühendisliğine başladım.✨2022✨
