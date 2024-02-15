@@ -15,7 +15,7 @@ Merhaba Bilgisayar Mühendisliği 3 sınıf öğrencisi ve 17 yıl tecrübeli in
    - 😄 Sakarya Ünv. İnşaat Mühendisliği  (Mezuniyet Tarihi :2006)
 
 
-   📫 LINKEDIN Profilim :  www.linkedin.com/in/mehmet-aydın-804b653b
+   📫 LINKEDIN Profilim :  www.linkedin.com/in/mehmetaydin4171
 
 
 
