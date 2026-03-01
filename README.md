@@ -1,14 +1,13 @@
 ### Merhaba 👋
-Merhaba Bilgisayar Mühendisi ve 19 yıl tecrübeli inşaat Y. mühendisiyim. İnşaat işinin teknolojiye en uzak mühendislik dallarından biri olduğunun farkındayım. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
+Merhaba Bilgisayar Mühendisi ve 20 yıl tecrübeli inşaat Y. mühendisiyim. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
 
    GÜNCEL ÇALIŞMALAR
-   - 📫 Yalova üni Bilgisayar Mühendisliğine başladım.✨2022✨
-   - 🔭 patika.dev Bootcamp hızlandırma programına devam ediyorum.
+    - 🔭 patika.dev Bootcamp hızlandırma programına devam ediyorum.
    - 🌱 Koç holding derin öğrenme bootcam programına devam ediyorum.
    - 👯 SQL öğreniyorum.
 
    EĞİTİM GEÇMİŞİ
-   - 📫 Yalova üni Bilgisayar Mühendisliği ✨Başlama Tarihi 2022✨
+   - 📫 Yalova üni Bilgisayar Mühendisliği ✨(Mezuniyet Tarihi :2025)✨
    - 🔭 Anadolu Ünv. Yönetim Bilişim Sistemleri (Mezuniyet Tarihi :2022)
    - 🌱 Atatürk Ünv. Bilgisayar Programcılığı  (Mezuniyet Tarihi :2022)
    - 👯 Gebze Yüksek Teknoloji Enstitüsü Deprem ve Yapı Bilimleri Yüksek Lisansı (Mezuniyet Tarihi :2010)
