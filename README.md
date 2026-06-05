@@ -2,9 +2,8 @@
 Merhaba Bilgisayar Mühendisi ve 20 yıl tecrübeli inşaat Y. mühendisiyim. Amacım inşaat mühendisliği tecrübem ile teknolojiyi birleştirip katma değer yaratan projeler üretmek.
 
    GÜNCEL ÇALIŞMALAR
-    - 🔭 patika.dev Bootcamp hızlandırma programına devam ediyorum.
-   - 🌱 Koç holding derin öğrenme bootcam programına devam ediyorum.
-   - 👯 SQL öğreniyorum.
+    - 🔭OBA işletim sistemi çekirdeğini yazıyorum.
+   
 
    EĞİTİM GEÇMİŞİ
    - 📫 Yalova üni Bilgisayar Mühendisliği ✨(Mezuniyet Tarihi :2025)✨
